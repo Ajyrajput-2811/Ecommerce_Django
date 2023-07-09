@@ -49,7 +49,7 @@ And the project is ready for use on your computer!.
 # Checkout Page:
 <img width="1440" alt="Screenshot 2023-07-09 at 3 28 27 PM" src="https://github.com/Ajyrajput-2811/Ecommerce_Django/assets/119350384/8df139dd-3181-491d-96cd-8d395582975e">
 
-# Django Proudct Data:
+# Django Admin Proudct Data:
 <img width="1440" alt="Screenshot 2023-07-09 at 3 28 48 PM" src="https://github.com/Ajyrajput-2811/Ecommerce_Django/assets/119350384/c02f3399-9adf-42ca-915e-95a306825341">
 
 
